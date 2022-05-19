@@ -17,12 +17,12 @@ body{
     width: 100vw;
     align-items: center;
     
-    
 }
+      
 .logo{
     height: 50px;
     width: auto;
-    margin-left: 20px;
+    margin-left: 50px;
     align-content: center;
 
     
@@ -30,7 +30,7 @@ body{
 }
 .headerlinks{
     display: flex;
-    margin:20px;
+    margin-right:50px;
     flex-wrap: nowrap;
     justify-content: right;
 }
@@ -50,7 +50,8 @@ a:hover {
     display: flex;
     justify-content: space-between;
     flex-basis: 100%;
-    margin: 50px;
+    margin-left: 100px;
+    margin-bottom: 50px;
     align-items: center; 
   }
 .heroheadline{
