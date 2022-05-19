@@ -72,6 +72,10 @@ a:hover {
      margin-top: 20px;
      width: 100px;
      padding: 10px;
+     background-color: #3882F6;
+    color: #E5E7EB;
+    border: 2px solid #E5E7EB;
+    border-radius: 5px;
  }
 .heroheader{
      display: flex;
@@ -97,7 +101,7 @@ a:hover {
 .boxes{
     height: 100px;
     width: 100px;
-    border: 5px solid rgb(85, 78, 187);
+    border: 5px solid #3882F6;
     align-items: center;
     align-content: center;
     border-radius: 10px;
@@ -142,6 +146,7 @@ a:hover {
     width: 100vw;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 .p2{
     color: #1F2937;
@@ -154,5 +159,34 @@ a:hover {
     font-weight: bold;
     margin-left: auto;
     
+}
+.hero4inner{
+    background-color: #3882F6;
+    height: 200px;
+    width: 75vw;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 20px; 
+    
+}
+.p4{
+    font-weight: bold;
+  
+}
+
+.button2{
+    padding-right: 100px ;
+       
+}
+.finalbutton{
+   background-color: #3882F6;
+   color: #E5E7EB;
+   border: 2px solid #E5E7EB;
+   padding: 5px 10px;
+   border-radius: 5px;
+   
 }
 
